@@ -1,0 +1,6 @@
+{
+  "name": "طالب هوم | Taleb Home",
+  "description": "المنصة الرائدة في مصر للتوفيق والوساطة بين طلاب الجامعات وأصحاب الشقق والوحدات السكنية مع نظام دفع فوري ولوحة تحكم شاملة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
